@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Blockchain/task/build/
+/Blockchain/task/out/
+/Blockchain/task/out/production/classes/
+/Problems/Disjunct all/out/
+/Problems/Disjunct all/out/production/classes/
+/Problems/Implementing the EntrySet method/out/
+/Problems/Implementing the EntrySet method/out/production/classes/
+/Problems/Invert an array/out/
+/Problems/Invert an array/out/production/classes/
+/Problems/Phone Book/out/
+/Problems/Phone Book/out/production/classes/
+/Problems/Removing/out/
+/Problems/Removing/out/production/classes/
